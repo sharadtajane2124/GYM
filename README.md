@@ -1,2 +1,16 @@
-# GYM
-Key Features:  🔐 Secure Login System: Admin and staff authentication to protect sensitive data.  🧑‍💼 Member Registration: Add, update, and delete member profiles with personal and contact details.  📅 Membership Plans: Manage subscription plans such as Monthly, Quarterly, and Annual.  🧾 Payment Tracking: Maintain pa
+gym management system
+===================
+
+Gym Management System
+
+This the my gym management system it is made using PHP,CSS,HTML,Jquery,Twitter Bootstrap.
+All sql table info can be found in table.sql.
+
+
+more free projects
+
+click here - https://projectworlds.in
+
+
+YouTube Demo - https://youtu.be/J_7G_AahgSw
+
